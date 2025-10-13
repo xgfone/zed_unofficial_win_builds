@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/pirafrank/zed_unofficial_win_builds/releases/download/v0.208.4-pre/zed.zip",
-      "hash": "b388d849dd37843d0f64ecfa54d8178c90b44ec1905548191c50907bddf5fc50"
+      "hash": "2b2b193cce2f94d844284a9c0722342a8ddc976475bdf932d1f71ddcd44794f9"
     }
   },
   "bin": "zed.exe",
